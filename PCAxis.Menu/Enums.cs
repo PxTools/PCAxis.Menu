@@ -107,6 +107,10 @@ namespace PCAxis.Menu
 		/// 
 		/// </summary>
 		ReadyForOfficial = 'O',
+  		/// <summary>
+		/// 
+		/// </summary>
+		Discontinued = 'D',
 		/// <summary>
 		/// 
 		/// </summary>
